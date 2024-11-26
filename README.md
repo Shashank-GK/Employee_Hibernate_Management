@@ -20,10 +20,10 @@ The primary goal of this project is to provide a practical example of:
 EmployeeHibernate/
 ├── src/main/java/
 │   ├── com.jsp.jdbc.EmployeeHibernate/
-│   │   ├── App.java                 # Entry point for the application.
-│   │   ├── Employee.java            # POJO class representing the Employee entity.
-│   │   ├── EmployeeDAO.java         # Contains methods for CRUD operations.
-│   ├── Hibernate.cfg.xml        # Hibernate configuration file for database connection.
+│   │   ├── App.java                  # Entry point for the application.
+│   │   ├── Employee.java             # POJO class representing the Employee entity.
+│   │   ├── EmployeeDAO.java          # Contains methods for CRUD operations.
+│   ├── Hibernate.cfg.xml             # Hibernate configuration file for database connection.
 ├── src/test/java/                    # Placeholder for unit test cases (future implementation).
 ├── pom.xml                           # Maven configuration file.
 ```
